@@ -5,4 +5,4 @@ eureka:
     fetch-registry: true
     register-with-eureka: true
     service-url:
-      defaultZones: http://eureka:password@localhost:8761/eureka
+      defaultZones: http://localhost:8761/eureka
